@@ -70,6 +70,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Chirag Chauhan http://chiragchauhan.com
 - Chris Lai http://chrislai.info
 - Chris Lee http://collegefill.com
+- Chris Wissmach http://www.ChrisWissmach.me
 - Christian Barcenas http://www.cbarcenas.com/
 - Christina Platt http://christinaplatt.weebly.com
 - Christopher Scott http://scottdchris.com
